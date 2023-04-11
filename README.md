@@ -6,10 +6,7 @@
 - 🧑🏻‍💻 I’m a full-stack developer, "cver"(Computer Vision).
 - 🍿 Like watching movies and playing console games.
 
-<span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecwang&theme=transparent">
-<img src="https://github-readme-stats.vercel.app/api?username=codecwang&theme=transparent">
-</span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codecwang&theme=transparent)](https://codec.wang/)
 
 <!--
 **CodecWang/CodecWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
